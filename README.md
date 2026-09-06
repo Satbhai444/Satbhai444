@@ -34,10 +34,9 @@ I'm a passionate web developer and 3D enthusiast building creative digital exper
 
 ### 🌌 **Solar System Explorer**
 An interactive 3D visualization of our solar system built with Three.js & WebGL. Explore planets, moons, and spacecraft with real NASA API data (APOD, Mars Weather, Asteroids).
-- 🔗 [Live Demo](https://solar-system-explorerr.vercel.app/)
+- 🔗 [Live Demo](https://solar-system-exploreerr.vercel.app/)
 - 📦 [GitHub](https://github.com/Satbhai444/Solar-System-Explorer)
-- 🔗 [Live Demo](https://solar-system-explorerr.vercel.app/)
-- 📦 [GitHub](https://github.com/Satbhai444/Solar-System-Explorer)
+
 
 ---
 
