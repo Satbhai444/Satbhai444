@@ -12,7 +12,7 @@ I'm a passionate web developer and 3D enthusiast building creative digital exper
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/darshansatbhai38)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darshansatbhai38@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=FirefoxBrowser&logoColor=white)]
-[!(https://www.daarshannexaa.in/)]
+(https://www.daarshannexaa.in/)
 ---
 
 ## 💻 Tech Stack
